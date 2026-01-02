@@ -2,7 +2,7 @@
 
 set -e  # exit on error
 
-APP_NAME="SPC - Databank"
+APP_NAME="Databank"
 BRANCH="main"
 
 echo "🚀 Starting deployment..."
